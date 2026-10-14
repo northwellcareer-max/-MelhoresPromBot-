@@ -1,0 +1,6 @@
+start    - Welcome message
+results  - Latest lottery results
+draws    - Upcoming draw dates
+tips     - Simple playing tips
+about    - About this bot
+contact  - Send feedback
