@@ -1,0 +1,15 @@
+PRIVACY POLICY
+
+This bot does not collect, store, or share personal data.
+
+- We do not ask for your name, email, phone number,
+  or payment details.
+- We do not track your location.
+- We do not share any information with third parties.
+- Messages sent to this bot are used only to respond
+  to your request.
+
+If you have questions, contact us through the
+/contact command.
+
+Last updated: 2026-10-14
