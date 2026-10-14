@@ -1,0 +1,21 @@
+NAME: Lotto8888-ងាយលេង
+USERNAME: @Lotto873bot
+
+ABOUT:
+Daily lottery updates and easy-to-play number games.
+Check results, get tips, and stay updated — all in one bot.
+
+DESCRIPTION:
+Lotto8888-ងាយលេង is your daily source for lottery
+updates and easy-to-play number games.
+
+What you can do:
+- Check the latest lottery results
+- Get updates on upcoming draws
+- Learn simple tips for playing
+- Stay informed with daily notifications
+
+Whether you're a casual player or a regular,
+this bot keeps you updated in one place.
+
+Use /start to begin.
